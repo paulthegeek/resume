@@ -3,16 +3,16 @@ project:
 
 website:
   title: "Paul Jackson Resume"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
+  pdf:
+    documentclass: report
+    margin-left: 30mm
+    margin-right: 30mm
 
 
 

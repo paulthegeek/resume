@@ -1,1 +1,8 @@
 /* css styles */
+.center-header h1 {
+  text-align: center;
+}
+
+.contact-info {
+  text-align: center;
+}

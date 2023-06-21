@@ -1,27 +1,37 @@
----
-title: "resume"
----
-# Paul Jackson
+# Paul Jackson {.center-header}
+::: {.contact-info}
+303.889.9672 • paulr.jackson@proton.me • Remote / Denver, CO •
+[linkedin.com/in/paulrjackson](https://linkedin.com/in/paulthegeek)
+:::
 
-303.889.9672 • paulr.jackson@proton.me • Remote / Denver, CO • [github.com/paulthegeek](https://github.com/paulthegeek) • [linkedin.com/in/paulrjackson](https://linkedin.com/in/paulthegeek)
+## Career Summary
+A highly empathetic team builder with a strong customer-centric mindset. I am seeking a position with a group of people who are committed to delivering excellent software that is accessible to everyone and who bring diverse perspectives to our work.
 
-## Team Lead / Product Owner / Sofware Engineer
-I am devoted to shared learning, building healthy relationships with my team, and being detail-oriented. I am seeking a position with a group of people who are committed to delivering excellent software that is accessible to everyone and who bring diverse perspectives to our work.
-
-## Objectives
-Engage in thoughtful and intentional team development
-Contributing to a product that is accessible to everyone
-Contribute and gain new skills/knowledge to achieve our goals
+## Team Lead / Sofware Engineer / Product Owner
+I have experience leading teams of software engineers and designers to deliever on quarterly OKR goals. The work to achieve these goals included writing software, working with stakeholders to define and prioritize work to ensure that we are delivering value to our customers and meeting our goals, and reporting on team status on a bi-weekly basis. I have experince defining and working to improve agile processes for teams which included leading several of the meetings and tasks required in that defined process. I have been a representive for cruical partner meetings, particapted in hiring and onboarding new team members, and have been a mentor to junior team members.
 
 ## Strengths
+Agile processes • Team communication • Time management and working independently
+• Programming • Problem solving • Learning new languages and technologies
 
 ## Skills
-Operating Systems: Windows, Mac OS X, Linux
-Programming Languages: Javascript, Ruby, Python, HTML, CSS
-Frameworks: Vue JS, React JS, Ruby on Rails
+Project management • Agile Methodologies and Practices • VueJS • ReactJS • EmberJS • Javascript • HTML • CSS • Ruby • Ruby on Rails • SQL • Git 
+
+## Career Highlights
+Leading developement teams to deliver on quarterly OKR goals
+
+Defining and building a new agile process for development teams
+
+Planning and building green field projects which include a new subscription and billing service the Posit Cloud Product, improving and building internal tooling and integrating tools to better support Posit products, a direct to consumer focus health insurance web app for Aetna, a new landing page for Travis CI
+
+
 ## Experience
-Posit / RStudio • Remote from Denver, CO • Software Engineer • February 2020 - July 2023
-Travis CI • Remote from Denver, CO • Software Engineer • January 2018 - March 2019
-Levels Beyond • Denver, CO • Software Engineer • June 2016 - August 2017
-Thoughtbot • Denver, CO • Software Engineer • November 2015 - April 2016
-iTriage • Denver, CO • Software Engineer • August 2012 - November 2015
+**Posit / RStudio** • Remote • Software Engineer • February 2020 - July 2023
+
+**Travis CI** • Remote • Software Engineer • January 2018 - March 2019
+
+**Levels Beyond** • Denver, CO • Software Engineer • June 2016 - August 2017
+
+**Thoughtbot** • Denver, CO • Software Engineer • November 2015 - April 2016
+
+**iTriage** • Denver, CO • Software Engineer • August 2012 - November 2015
