@@ -1,1 +1,1 @@
-Sitemap: https://github.com/paulthegeek/resume/sitemap.xml
+Sitemap: https://paulthegeek.github.io/resume/sitemap.xml
