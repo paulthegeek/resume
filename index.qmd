@@ -1,7 +1,27 @@
 ---
 title: "resume"
 ---
+# Paul Jackson
 
-This is a Quarto website.
+303.889.9672 • paulr.jackson@proton.me • Remote / Denver, CO • [github.com/paulthegeek](https://github.com/paulthegeek) • [linkedin.com/in/paulrjackson](https://linkedin.com/in/paulthegeek)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Team Lead / Product Owner / Sofware Engineer
+I am devoted to shared learning, building healthy relationships with my team, and being detail-oriented. I am seeking a position with a group of people who are committed to delivering excellent software that is accessible to everyone and who bring diverse perspectives to our work.
+
+## Objectives
+Engage in thoughtful and intentional team development
+Contributing to a product that is accessible to everyone
+Contribute and gain new skills/knowledge to achieve our goals
+
+## Strengths
+
+## Skills
+Operating Systems: Windows, Mac OS X, Linux
+Programming Languages: Javascript, Ruby, Python, HTML, CSS
+Frameworks: Vue JS, React JS, Ruby on Rails
+## Experience
+Posit / RStudio • Remote from Denver, CO • Software Engineer • February 2020 - July 2023
+Travis CI • Remote from Denver, CO • Software Engineer • January 2018 - March 2019
+Levels Beyond • Denver, CO • Software Engineer • June 2016 - August 2017
+Thoughtbot • Denver, CO • Software Engineer • November 2015 - April 2016
+iTriage • Denver, CO • Software Engineer • August 2012 - November 2015
