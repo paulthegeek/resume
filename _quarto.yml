@@ -9,10 +9,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-  pdf:
-    documentclass: report
-    margin-left: 30mm
-    margin-right: 30mm
 
 
 
