@@ -15,7 +15,7 @@ Agile processes • Team communication • Time management and working independe
 • Programming • Problem solving • Learning new languages and technologies
 
 ## Skills
-Project management • Product planning • Agile methodologies and mractices • VueJS • ReactJS • EmberJS • Javascript • HTML • CSS • Ruby • Ruby on Rails • SQL • Git 
+Project management • Product planning • Agile methodologies and practices • VueJS • ReactJS • EmberJS • Javascript • HTML • CSS • Ruby • Ruby on Rails • SQL • Git 
 
 ## Career Highlights
 Leading development teams to deliver on quarterly OKR goals
