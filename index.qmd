@@ -4,34 +4,72 @@
 [linkedin.com/in/paulthegeek](https://linkedin.com/in/paulthegeek)
 :::
 
-## Career Summary
-A highly empathetic team builder with a strong customer-centric mindset. I am seeking a position with a group of people who are committed to delivering excellent software that is accessible to everyone and who bring diverse perspectives to our work.
+## TECHNICAL PROJECT MANAGER/SOFTWARE ENGINEER
 
-## Team Lead / Product Owner / Software Engineer 
-I have experience leading teams of software engineers and designers to deliver on quarterly OKR goals. The work to achieve these goals included writing software, working with stakeholders to define and prioritize work to ensure that we are delivering value to our customers and meeting our goals, and reporting on team status on a bi-weekly basis. I have experience defining and working to improve agile processes for teams which included leading several of the meetings and tasks required in that defined process. I have been a representative for crucial partner meetings, participated in hiring and onboarding new team members, and have been a mentor to junior team members.
+Focused, detail-oriented Technical Project Manager/Software Engineer with 10+ years of proven success and expertise in creating technical project plans, overseeing the implementation, fostering customer and stakeholder relationships, and collaborating with relevant, cross-functional team members. Schedules and facilitates recurring meetings with clients and the internal team and regularly communicates project status, sharing project risks, milestones, budgets, and project issues with customers. Facilitates planning, execution, monitoring, reporting, and closure of agile software development projects—accomplishes measurable results utilizing strong interpersonal and organizational skills that provide solution-oriented outcomes in fast-paced, dynamic environments. Communicates precisely, leads by example, and exceeds expectations.
 
-## Strengths
-Agile processes • Team communication • Time management and working independently
-• Programming • Problem solving • Learning new languages and technologies
+## CORE STRENGTHS
 
-## Skills
-Project management • Product planning • Agile methodologies and practices • VueJS • ReactJS • EmberJS • Javascript • HTML • CSS • Ruby • Ruby on Rails • SQL • Git 
+Cross-Functional Leadership | High-Level Team Management Strategic Planning | Agile Planning & Methodologies |
+3rd Party Relationships | Complex Problem Solving |
+Software Engineering | Project Implementation
 
-## Career Highlights
-Leading development teams to deliver on quarterly OKR goals
+## PROFESSIONAL OVERVIEW
 
-Defining and building a new agile process for development teams
+### POSIT PBC (FORMERLY RSTUDIO) – Denver, CO (Remote), 2020 – 2023
 
-Planning and building green field projects which include a new subscription and billing service the Posit Cloud Product, improving and building internal tooling and integrating tools to better support Posit products, a direct to consumer focus health insurance web app for Aetna, a new landing page for Travis CI
+**SOFTWARE ENGINEER\/TEAM LEAD – PRODUCT OWNER**
+
+- Team Lead and Product Owner for the Academy team for several large projects tied to company OKR goals.
+- Led design of a custom agile process for the engineering team, delivering products with a positive impact, finding
+issues and gaps earlier, and delivering faster.
+- Built a new subscription and billing platform for self-service cloud products.
+- Improved and built new tooling for academic data science content creation involving gathering requirements and
+understanding what was needed to make this process easier.
+- Enhanced and built internal tooling to improve support experience allowing us to get more direct feedback from students and delegate who should handle certain issues.
+
+### TRAVIS CI – Denver, CO (Remote), 2018 – 2019
+
+**SOFTWARE ENGINEER**
+
+- Developed and redesigned trial and build/deployment emails.
+- Built and redesigned the landing page.
+- Updated billing UI to make information more transparent for paying customers.
+- Modernized build/deployment progress UI to help users better understand the status of a job.
+
+### LEVELS BEYOND – Denver, CO, 2016 – 2017
+
+**SOFTWARE ENGINEER**
+
+- Created the initial cloud platform backed by AWS by requirements.
+- Designed and crafted a new workflow page to improve navigation, efficiency, and usability.
+- Built a custom viewport for the app’s dashboard page, syncing features between a list and tile view.
+
+### THOUGHTBOT – Denver, CO, 2015 – 2016
+
+**SOFTWARE ENGINEER**
+
+- Developed a ticketing bundle system integrating with Shipwire and Spree.
+- Built an employee-to-employer education benefit system.
+- Created features for our internal tool to help run the business of Thoughtbot.
 
 
-## Experience
-**Posit / RStudio** • Remote • Software Engineer • February 2020 - July 2023
+### ITRIAGE – Denver, CO, 2012 – 2015
 
-**Travis CI** • Remote • Software Engineer • January 2018 - March 2019
+**SOFTWARE ENGINEER**
 
-**Levels Beyond** • Denver, CO • Software Engineer • June 2016 - August 2017
+- Developed a narrow network feature for Accountable Care Organizations(ACOs) for the iTriage app.
+- Integrated with Aetna backend services to create specific narrow network features for Aetna customers.
+- Built an internal tool to give our content team an efficient content management system with great user experience.
+- Designed and developed a new consumer health insurance web app for Aetna.
+- Created reusable web components to share across iTriage and Aetna codebases.
 
-**Thoughtbot** • Denver, CO • Software Engineer • November 2015 - April 2016
+## EDUCATION & CERTIFICATIONS
+Bachelor of Science | Computer Science | Metropolitan State University, Denver, CO
 
-**iTriage** • Denver, CO • Software Engineer • August 2012 - November 2015
+Certified Scrum Master | Agile University
+
+## KNOWLEDGE SKILLS & ABILITIES
+Agile Practices & Methodologies | Project Mgmt |
+User Stories | Backlog Mgmt | Facilitation | JavaScript | VueJS | React JS | Ruby | Ruby on Rails | REST APIs | HTML | CSS | Software development | Unit Testing | Web Services | Git | SQL | Jira | Github Projects | MS Office | Google Suite
+  
