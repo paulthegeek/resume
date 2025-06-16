@@ -6,70 +6,53 @@
 
 ## TECHNICAL PROJECT MANAGER/SOFTWARE ENGINEER
 
-Focused, detail-oriented Technical Project Manager/Software Engineer with 10+ years of proven success and expertise in creating technical project plans, overseeing the implementation, fostering customer and stakeholder relationships, and collaborating with relevant, cross-functional team members. Schedules and facilitates recurring meetings with clients and the internal team and regularly communicates project status, sharing project risks, milestones, budgets, and project issues with customers. Facilitates planning, execution, monitoring, reporting, and closure of agile software development projects—accomplishes measurable results utilizing strong interpersonal and organizational skills that provide solution-oriented outcomes in fast-paced, dynamic environments. Communicates precisely, leads by example, and exceeds expectations.
+Product Manager with 10+ years of proven success and expertise in planning, prioritizing and developing software projects by fostering customer and stakeholder relationships and cross-functional collaboration.
 
-## CORE STRENGTHS
+## Skills and Knowledge
+Agile Product Management | Product Development | Software Engineering | Agile Methodologies | Team Leadership | Cross-Functional Collaboration | Javascript | React | Vue.js | REST API | Facilitation B2B & B2C Relationships | Written and Verbal Communication | Cost Saving | Jira | Confluence | Github
 
-Cross-Functional Leadership | High-Level Team Management Strategic Planning | Agile Planning & Methodologies |
-3rd Party Relationships | Complex Problem Solving |
-Software Engineering | Project Implementation
+## Expereince
 
-## PROFESSIONAL OVERVIEW
+### Blueprint Test prep, Technical Product Manager — April 2024 - Present
 
-### POSIT PBC (FORMERLY RSTUDIO) – Denver, CO (Remote), 2020 – 2023
+- Drove feature prioritization by providing strategic technical insight to Product Managers and COO across multiple product verticals, aligning roadmap decisions with engineering feasibility and business impact
+- Translated complex and various stakeholder needs into actionable user stories by partnering cross-functionally with Product Managers, Education Experts, Designers, and Engineers ensuring quality, user-centered implementations that directly served student success and business goals
+- Designed and launched a scalable triage workflow for customer-reported issues, streamlining intake from Support and enabling faster resolution of critical bugs resulting in improved product stability and customer satisfaction
+- Co-led architectural planning for the 2.0 Study Plan platform in close collaboration with the Director of Engineering and Platform Engineering Manager, laying the foundation for scalable, flexible and future product innovation
 
-**SOFTWARE ENGINEER\/TEAM LEAD – PRODUCT OWNER**
+### Posit, Pbc (Formerly Rstudio), Product Manager — Aug 2022 - Jul 2023
 
-- Team Lead and Product Owner for the Academy team for several large projects tied to company OKR goals.
-- Led design of a custom agile process for the engineering team, delivering products with a positive impact, finding
-issues and gaps earlier, and delivering faster.
-- Built a new subscription and billing platform for self-service cloud products.
-- Improved and built new tooling for academic data science content creation involving gathering requirements and
-understanding what was needed to make this process easier.
-- Enhanced and built internal tooling to improve support experience allowing us to get more direct feedback from students and delegate who should handle certain issues.
+- Led and prioritized product decisions based on student feedback and in support of doubling enrollment from the previous year for the Academy platform and aligning with the a company OKR goal of increasing paid users for the cloud platforms
+- Researched and implemented new tooling for academic data science tutorial creation based on the feedback from internal teachers. The new tooling increased tutorial and project creation by 25%
+- Led the design and implementation of a new agile process within our development team. This included consistent collaborative spikes, prototyping, planning meetings, and retrospectives. This new method of developing stories increased our story output by 50% over three quarters
 
-### TRAVIS CI – Denver, CO (Remote), 2018 – 2019
-
-**SOFTWARE ENGINEER**
-
-- Developed and redesigned trial and build/deployment emails.
-- Built and redesigned the landing page.
-- Updated billing UI to make information more transparent for paying customers.
-- Modernized build/deployment progress UI to help users better understand the status of a job.
-
-### LEVELS BEYOND – Denver, CO, 2016 – 2017
-
-**SOFTWARE ENGINEER**
-
-- Created the initial cloud platform backed by AWS by requirements.
-- Designed and crafted a new workflow page to improve navigation, efficiency, and usability.
-- Built a custom viewport for the app’s dashboard page, syncing features between a list and tile view.
-
-### THOUGHTBOT – Denver, CO, 2015 – 2016
-
-**SOFTWARE ENGINEER**
-
-- Developed a ticketing bundle system integrating with Shipwire and Spree.
-- Built an employee-to-employer education benefit system.
-- Created features for our internal tool to help run the business of Thoughtbot.
+### Posit, Pbc, Software Engineer | Product Manager — Feb 2020 - Aug 2022
+- Implemented a new subscription and billing platform for self-service the Posit Cloud product. The subscription service increased revenue by 100% as it was a free beta product previously
+- Enhanced internal tooling to improve support experience allowing us to get more direct feedback from students and delegate who should handle certain issues
 
 
-### ITRIAGE – Denver, CO, 2012 – 2015
+### Travis CI, Software Engineer — Jan 2018 - Mar 2019
+- Modernized our build/deployment progress UI based on user feedback both internal and external. It resulted in users better understanding what the status of a job was which reduced support tickets by 20%
+- Planned and implemented the redesign of the landing page with our designer to drive users to use the paid version of our product and make pricing tiers simpler. This resulted in increase of paid users
 
-**SOFTWARE ENGINEER**
+# Levels Beyond, Software Engineer — Jun 2016 - Aug 2017
+- Designed and implemented a new workflow page for content creators based on user feedback. It resulted in a workflow that improved navigation and increased usability and efficiency
+- Designed and implemented a custom viewport based on user feedback and interviews. It resulted in view that allowed for users to have the same features in the list and tile views when they would switch between
 
-- Developed a narrow network feature for Accountable Care Organizations(ACOs) for the iTriage app.
-- Integrated with Aetna backend services to create specific narrow network features for Aetna customers.
-- Built an internal tool to give our content team an efficient content management system with great user experience.
-- Designed and developed a new consumer health insurance web app for Aetna.
-- Created reusable web components to share across iTriage and Aetna codebases.
+# thoughtbot, Software Engineer — Nov 2015 - Apr 2016
+- Designed and implemented features in our internal tool based on feedback from teammates. The features resulted in better tracking of customers and scheduling work across the business
+- Implemented an employee to employer education benefit system based on the requirements from our client Guild. This feature resulted in helping our customer have a core feature for launching their product
 
-## EDUCATION & CERTIFICATIONS
-Bachelor of Science | Computer Science | Metropolitan State University, Denver, CO
+# iTriage(Aetna), Software Engineer — Aug 2012 - Nov 2015
+- Led our front-end engineering team creating a new consumer health insurance app with collaboration between engineering, design, product, and Aetna executives. This resulted in a direct to consumer product for iOS, Android, and the Web
+- Led and developed reusable web components that could be shared across the iTraige and Aetna codebases. The shared web components ensured consistency across the codebases, a consistent UI, reduced duplication, and increased stability
 
-Certified Scrum Master | Agile University
+# Rally Software Development, Customer Success Engineer — June 2008 - Aug 2012
+- Problem solving a variety of issues from tool usage, agile practices, debugging, and supporting customer code using Rally’s web service API
+- Built custom solutions in Javascript, Ruby, and C# for customers using Rally’s web service API
+- Built custom integrations with JIRA, HP Quality Center, and Excel
+- Rotating scrum master for my team
 
-## KNOWLEDGE SKILLS & ABILITIES
-Agile Practices & Methodologies | Project Mgmt |
-User Stories | Backlog Mgmt | Facilitation | JavaScript | VueJS | React JS | Ruby | Ruby on Rails | REST APIs | HTML | CSS | Software development | Unit Testing | Web Services | Git | SQL | Jira | Github Projects | MS Office | Google Suite
+# Education
+Metropolitan State University of Denver - Bachelor of Science, Computer Science, Minor: Mathematics
   
