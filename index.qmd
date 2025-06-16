@@ -4,8 +4,6 @@
 [linkedin.com/in/paulthegeek](https://linkedin.com/in/paulthegeek)
 :::
 
-## TECHNICAL PROJECT MANAGER/SOFTWARE ENGINEER
-
 Product Manager with 10+ years of proven success and expertise in planning, prioritizing and developing software projects by fostering customer and stakeholder relationships and cross-functional collaboration.
 
 ## Skills and Knowledge
@@ -35,24 +33,24 @@ Agile Product Management | Product Development | Software Engineering | Agile Me
 - Modernized our build/deployment progress UI based on user feedback both internal and external. It resulted in users better understanding what the status of a job was which reduced support tickets by 20%
 - Planned and implemented the redesign of the landing page with our designer to drive users to use the paid version of our product and make pricing tiers simpler. This resulted in increase of paid users
 
-# Levels Beyond, Software Engineer — Jun 2016 - Aug 2017
+### Levels Beyond, Software Engineer — Jun 2016 - Aug 2017
 - Designed and implemented a new workflow page for content creators based on user feedback. It resulted in a workflow that improved navigation and increased usability and efficiency
 - Designed and implemented a custom viewport based on user feedback and interviews. It resulted in view that allowed for users to have the same features in the list and tile views when they would switch between
 
-# thoughtbot, Software Engineer — Nov 2015 - Apr 2016
+### thoughtbot, Software Engineer — Nov 2015 - Apr 2016
 - Designed and implemented features in our internal tool based on feedback from teammates. The features resulted in better tracking of customers and scheduling work across the business
 - Implemented an employee to employer education benefit system based on the requirements from our client Guild. This feature resulted in helping our customer have a core feature for launching their product
 
-# iTriage(Aetna), Software Engineer — Aug 2012 - Nov 2015
+### iTriage(Aetna), Software Engineer — Aug 2012 - Nov 2015
 - Led our front-end engineering team creating a new consumer health insurance app with collaboration between engineering, design, product, and Aetna executives. This resulted in a direct to consumer product for iOS, Android, and the Web
 - Led and developed reusable web components that could be shared across the iTraige and Aetna codebases. The shared web components ensured consistency across the codebases, a consistent UI, reduced duplication, and increased stability
 
-# Rally Software Development, Customer Success Engineer — June 2008 - Aug 2012
+### Rally Software Development, Customer Success Engineer — June 2008 - Aug 2012
 - Problem solving a variety of issues from tool usage, agile practices, debugging, and supporting customer code using Rally’s web service API
 - Built custom solutions in Javascript, Ruby, and C# for customers using Rally’s web service API
 - Built custom integrations with JIRA, HP Quality Center, and Excel
 - Rotating scrum master for my team
 
-# Education
+## Education
 Metropolitan State University of Denver - Bachelor of Science, Computer Science, Minor: Mathematics
   
